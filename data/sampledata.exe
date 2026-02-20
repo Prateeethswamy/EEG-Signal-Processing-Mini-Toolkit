@@ -1,0 +1,17 @@
+[1]anonymous_data_1.csv
+Raw multi-channel EEG recording captured as continuous time-series data.
+Contains timestamped electrical activity signals
+Multiple electrode channels
+Suitable for filtering and noise removal demonstrations
+
+[2] anonymous_data_2.csv
+Preprocessed EEG sample data.
+Reduced noise compared to raw dataset
+Ideal for frequency-domain analysis
+Used for band power extraction and visualization
+
+[3️] eeg_sample_data.csv
+Clean example dataset for tutorial purposes.
+Structured for easy loading and testing
+Recommended for first-time users of the toolkit
+Useful for demonstrating FFT and spectral analysis
